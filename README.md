@@ -1,4 +1,3 @@
-![MasterHead](https://www.hiddenbrains.co.uk/wp-content/uploads/2019/09/Node.js-Tools-1.jpg)
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">A passionate nodejs developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
