@@ -6,11 +6,8 @@
 
 - 🌱 I’m currently learning **Nodejs,AWS**
 
-- 💬 Ask me about **react,nodejs**
-
 - 📫 How to reach me **sabbir_ahmed65@yahoo.com**
 
-- ⚡ Fun fact **I think I am funny**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawon122334" alt="shawon122334" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
